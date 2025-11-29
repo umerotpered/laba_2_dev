@@ -13,3 +13,4 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=port)
 print('Build triggered by GitHub webhook')
 print('работай')
+print('123')
